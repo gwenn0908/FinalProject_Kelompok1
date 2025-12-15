@@ -7,9 +7,10 @@ Session Management: Tracking user_id dan username dalam session
 Logout: Session destroy dengan redirect
 
 
-Assignment 2
+Assignment 2,3 dan Final Project
 
 Berikut link laporannya
 https://docs.google.com/document/d/1JBz3FxHUCUfcQlQDgcHvKxuKTMe_MKiCx2nXw93YzyI/edit?usp=sharing
+
 
 
